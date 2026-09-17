@@ -1,5 +1,5 @@
 
-
+//test code to
 import { useState, useEffect } from "react";
 import Navbar from "./Navbar";
 import MovieCard from "./MovieCard";
